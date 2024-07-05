@@ -84,7 +84,7 @@ try {
 
     let readmeData = generatorMarkdown(userInput);
 
-    writeToFile("README.md", readmeData);
+    writeToFile("[NEW]README.md", readmeData);
 } catch (error) {
     console.error(error)
 }
