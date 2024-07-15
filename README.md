@@ -26,6 +26,8 @@
 
   ![alt text](./assets/images/CLI%20app%20and%20generated%20readme.png)
 
+  [Walk-through Video](https://drive.google.com/file/d/1de6qDg_Zn3Umexv7hdvNa-GBu077t_ks/view?usp=sharing)
+
   ## Credits
   
   Shoutout to my teacher, Robbert Wijtman, for the great classes (so thankful these are recorded and available) - I re-watched the server side recordings/referred to the classwork so many times. 
